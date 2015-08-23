@@ -1,0 +1,3 @@
+[submodule "public/themes/adminlte"]
+	path = public/themes/adminlte
+	url = git@github.com:stackie/adminlte-theme.git
